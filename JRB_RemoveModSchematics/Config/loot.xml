@@ -52,6 +52,7 @@
 	<remove xpath="/lootcontainers/lootgroup[@name='commonBooks']/item[contains(@name, 'Schematic')]" />
 	<remove xpath="/lootcontainers/lootgroup[@name='commonBooks']/item[contains(@name, 'Schematic')]" />
 	<remove xpath="/lootcontainers/lootgroup[@name='commonBooks']/item[contains(@name, 'Schematic')]" />
+	<remove xpath="/lootcontainers/lootgroup[@name='commonBooks']/item[contains(@name, 'Schematic')]" />
 	
 <!-- Rare Books -->
 	<remove xpath="/lootcontainers/lootgroup[@name='rareBooks']/item[contains(@name, 'Schematic')]" />
