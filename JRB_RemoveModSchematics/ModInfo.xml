@@ -5,7 +5,7 @@
 		<Name value="JRB_RemoveModSchematics" />
 		<Description value="removes mod schematics from spawning, which are now unlocked via Yea Science" />
 		<Author value="jrbarrio" />
-		<Version value="1.0" />
+		<Version value="2.0" />
 
 	</ModInfo>
 </xml>
